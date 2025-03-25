@@ -14,3 +14,5 @@ Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
 ![xisde](https://github.com/user-attachments/assets/aacfb7db-c109-43a9-939c-fc3c9e09e252)
+
+![image](https://github.com/user-attachments/assets/48387e59-84ec-408f-98b3-300702bd3915)
